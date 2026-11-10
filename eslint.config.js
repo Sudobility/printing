@@ -40,6 +40,10 @@ export default [
         fetch: 'readonly',
         Notification: 'readonly',
         Storage: 'readonly',
+        HTMLElement: 'readonly',
+        Element: 'readonly',
+        Event: 'readonly',
+        MediaQueryListEvent: 'readonly',
       },
     },
     plugins: {
