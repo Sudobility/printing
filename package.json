@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/printing",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Web printing for @sudobility apps (CSS @page, detached print, draw-readiness)",
   "type": "module",
   "main": "dist/index.js",
@@ -39,7 +39,7 @@
   "author": "Sudobility Inc",
   "license": "BUSL-1.1",
   "peerDependencies": {
-    "@sudobility/printing_core": "^0.1.0",
+    "@sudobility/printing_core": "^0.1.1",
     "react": "^18.0.0 || ^19.0.0",
     "react-dom": "^18.0.0 || ^19.0.0"
   },
@@ -54,7 +54,7 @@
   },
   "devDependencies": {
     "@eslint/js": "~10.0.1",
-    "@sudobility/printing_core": "^0.1.0",
+    "@sudobility/printing_core": "^0.1.1",
     "@testing-library/react": "^16.1.0",
     "@types/node": "~26.6.5",
     "@types/react": "~19.3.0",
