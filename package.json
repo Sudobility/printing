@@ -1,6 +1,6 @@
 {
   "name": "@sudobility/printing",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Web printing for @sudobility apps (CSS @page, detached print, draw-readiness)",
   "type": "module",
   "main": "dist/index.js",
@@ -24,7 +24,7 @@
     "typecheck": "tsc --noEmit",
     "lint": "eslint src --ext .ts,.tsx",
     "lint:fix": "eslint src --ext .ts,.tsx --fix",
-    "format": "prettier --write src/**/*.{ts,tsx,js}"
+    "format": "prettier --write \"src/**/*.{ts,tsx,js}\""
   },
   "files": [
     "dist/**/*",
